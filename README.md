@@ -9,15 +9,14 @@ The website is live at: https://golds-gym-page.vercel.app/
 
 ## 📁 Project Structure
 
-├── index.html # Homepage with intro video and gym legacy
-├── contact.html # Contact form with Google Maps embed
-├── freetrail.html # Free trial registration form
-├── image.png # Logo
-├── image copy.png # Homepage banner
-├── image copy 2.png # Contact page banner
-├── image copy 3.png # Free trial page banner
-├── Gold's Gym Evolution Flower Mound, Texas - Gold's Gym.mp4
-
+├── index.html                               # Homepage with intro video and gym legacy
+├── contact.html                             # Contact form with Google Maps embed
+├── freetrail.html                           # Free trial registration form
+├── image.png                                # Logo
+├── image copy.png                           # Homepage banner
+├── image copy 2.png                         # Contact page banner
+├── image copy 3.png                         # Free trial page banner
+├── Gold's Gym Evolution Flower Mound, Texas - Gold's Gym.mp4  # Embedded video
 
 ---
 
