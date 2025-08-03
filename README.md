@@ -54,11 +54,3 @@ The website is live at: https://golds-gym-page.vercel.app/
 - Google Maps Embed API
 
 ---
-
-## 📬 Contact
-
-**Gold's Gym India**  
-📧 customer.care@goldsgym.in  
-📞 +91 8976852314  
-
----
