@@ -32,19 +32,6 @@ The website is live at: https://golds-gym-page.vercel.app/
 
 ---
 
-## 📸 Screenshots
-
-1. **Homepage**
-   - Includes brand introduction and embedded video.
-
-2. **Contact Page**
-   - Interactive form with dropdowns and map location.
-
-3. **Free Trial Page**
-   - Simple form for capturing leads for free gym sessions.
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
