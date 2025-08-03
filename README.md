@@ -8,7 +8,7 @@ The website is live at: https://golds-gym-page.vercel.app/
 ---
 
 ## 📁 Project Structure
-
+```
 ├── index.html                               # Homepage with intro video and gym legacy
 ├── contact.html                             # Contact form with Google Maps embed
 ├── freetrail.html                           # Free trial registration form
